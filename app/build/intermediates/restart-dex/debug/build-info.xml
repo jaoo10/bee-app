@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="21625590128075"
+    token="-8810922863086874673" >
+
+    <task
+        name="javac"
+        duration="63" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="5" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/jao/Dropbox/UEM/proj/Bee-app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+
+    <build timestamp="21328965495747" >
+        <artifact
+            location="/home/jao/Dropbox/UEM/proj/Bee-app/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="21625590128075" >
+        <artifact
+            location="/home/jao/Dropbox/UEM/proj/Bee-app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
